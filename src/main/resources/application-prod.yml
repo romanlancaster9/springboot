@@ -1,0 +1,8 @@
+api:
+  url: http://101.37.169.39:9090${server.servlet.context-path}/file/
+email:
+  host: smtp.163.com
+  port: 465
+  username: zhang12202504@163.com
+  # 授权码
+  password: YUw2jYZnurZvcXwb
